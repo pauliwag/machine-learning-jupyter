@@ -9,8 +9,8 @@ Click a Notebook name (blue text) below to view it:
 2. Evaluated the performance of the repurposed CNNs using different metrics, i.e., learning curves, confusion matrices, precision-recall curves, etc.
 3. Computed the size of the best model for storage considerations.
 
-## [`blind-prediction-and-performance-estimation-on-smartphone-signals`](blind-prediction-and-performance-estimation-on-smartphone-signals.ipynb)
+## [`ensembling-for-blind-prediction-and-performance-estimation-on-smartphone-signals`](ensembling-for-blind-prediction-and-performance-estimation-on-smartphone-signals.ipynb)
 ### Achievements
-1. Optimized and combined multiple different ML models into an ensemble that maximizes blind prediction accuracy and precision on unlabaled smartphone sensor signal data.
+1. Optimized and combined multiple diverse ML models into an ensemble that maximizes blind prediction accuracy and precision on unlabeled smartphone signal data.
 
 2. Computed ensemble KPIs via cross-validation, a confusion matrix, and precision-recall curves.
